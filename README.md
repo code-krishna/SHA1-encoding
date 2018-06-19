@@ -1,5 +1,5 @@
 # SHA1-Encoding
-C-program to implement SHA1 algorithm
+Python and C-program to implement SHA1 algorithm
 
 Implementing SHA1 without any pre-required header files with one single C program.
 
